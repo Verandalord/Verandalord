@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Website Development
 - 💞️ I’m looking to collaborate on Website and Frontend
 - 📫 How to reach me here
-- 😄 Pronouns: She
 - ⚡ Fun fact: I'm interesting to be around, look new things/ideas.
 
 <!---
